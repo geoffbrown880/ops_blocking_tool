@@ -1,2 +1,2 @@
-schedule.csv
-lib/pycache/*
+/schedule.csv
+/lib/__pycache__/
